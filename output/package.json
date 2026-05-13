@@ -1,0 +1,8 @@
+{
+  "name": "generador-sesiones-docx",
+  "version": "1.0.0",
+  "main": "4_builder.js",
+  "dependencies": {
+    "docx": "^8.5.0"
+  }
+}
